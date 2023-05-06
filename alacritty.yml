@@ -618,10 +618,8 @@ schemes:
   # Gnome terminal theme
   gnome_terminal: &gnome_terminal
     primary:
-      # background: "0x1e1e1e"
-      # foreground: "0xffffff"
-      background: "0x0d1117"
-      foreground: "0xb3b1ad"
+      background: "0x1e1e1e"
+      foreground: "0xffffff"
 
     # Normal
     normal:
@@ -674,12 +672,8 @@ schemes:
       white: "0xffffff"
 
     indexed_colors:
-      # - { index: 16, color: "0x0d1117" }
-      # - { index: 17, color: "0xffa198" }
       - { index: 16, color: "0x0d1117" }
       - { index: 17, color: "0xffa198" }
-      # - { index: 16, color: "0x000000" }
-      # - { index: 17, color: "0x484f58" }
 
 ######################################################################
 ## SET THEME: Choose ONE color scheme from those in the above list. ##
@@ -703,7 +697,7 @@ schemes:
 # *Cobalt2
 # *gnome_terminal
 
-colors: *gnome_terminal
+colors: *custom
 #######################################
 ##       END OF COLOR SCHEMES        ##
 #######################################
