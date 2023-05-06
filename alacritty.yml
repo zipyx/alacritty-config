@@ -16,9 +16,9 @@ window:
   padding:
     x: 3
     # y: 1
-  dimensions:
-    columns: 120
-    # lines: 40
+  # dimensions:
+  # columns: 120
+  # lines: 40
   opacity: 0.94
   decorations: full
 
