@@ -1,5 +1,7 @@
 key_bindings:
   # Vi Mode
+  # Ctrl +/- increases/decreases terminal font size at live
+  # Ctrl 0 return to original font size set
   - { key: S, mods: Shift|Control, mode: ~Search, action: ToggleViMode }
 
 # Custom terminal configuration
