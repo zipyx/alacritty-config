@@ -659,6 +659,7 @@ schemes:
       yellow: "0xa2734c"
       blue: "0x12488b"
       magenta: "0xa347ba"
+      # magenta: "0x711c91"
       cyan: "0x2aa1b3"
       white: "0xd0cfcc"
 
@@ -670,6 +671,7 @@ schemes:
       yellow: "0xe9ad0c"
       blue: "0x2a7bde"
       magenta: "0xc061cb"
+      # magenta: "0x711c91"
       cyan: "0x33c7de"
       white: "0xffffff"
 
@@ -698,6 +700,7 @@ schemes:
 # *hyper
 # *Cobalt2
 # *gnome_terminal
+# *custom
 
 colors: *custom
 #######################################
