@@ -33,7 +33,7 @@ env:
   TERM: xterm-256color
 
 scrolling:
-  history: 10000
+  history: 5000
   auto_scroll: true
 
 #######################################
