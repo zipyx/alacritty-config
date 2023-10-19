@@ -16,8 +16,8 @@ font:
     # family: "SFMono Nerd Font"
 window:
   padding:
-    x: 3
-    # y: 1
+    x: 1
+    y: 1
   # dimensions:
   # columns: 120
   # lines: 40
